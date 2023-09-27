@@ -1,0 +1,68 @@
+body {
+  background-color: lightslategray;
+  
+}
+.site{
+margin: 0;
+  padding: 40px;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: Aqua;
+  background-image: url("img/fon1.jpg");
+  height: 100vh;
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: palegreen;
+  font-size:40px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 30px
+}
+h2 {
+  color: palegreen;
+  font-size:40px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 30px;
+}
+.gallery{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+  background-color: blue;
+}
+
+.desc{
+  padding: 18px;
+  text-align: center;
+}
+
+p {
+  line-height: 1,1;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 25px;
+}
+
+.center {
+  padding-left: 100px;
+  padding-top: 5px;
+  text-align: left;
+  color: #7FFF00;
+  font-style: italic;
+}
+.tekst {
+ line-height: 1,1;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px;
+  color: #F0E68C;
+  font-style: italic;
